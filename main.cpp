@@ -237,7 +237,7 @@ int main()
                 cout << "\t\t. * .     . * .                       . * .     . * .                   \n";
                 cout <<  "\t\t*     .       *                     *       .       *                 \n";
                 cout << "\t\t*              *                     *              *                   \n";
-                cout << "\t\t*   To        *     YEU               *    CAU   *                    \n";
+                cout << "\t\t*   Toi        *     YEU               *    CAU   *                    \n";
                 cout << "\t\t  *        *                            *        *                     \n";
                 cout << "\t\t    *    *                                *    *                      \n";
                 cout << "\t\t       *                                     *                         \n";
