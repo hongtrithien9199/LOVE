@@ -31,7 +31,7 @@ int main()
         cout << "\n\n\n\t\tCau co biet khong? Luc nao to cung nghi ve cau thoi! \n\t\tHinh nhu cau la me tuong lai cua cac con to thi phai.";
         Sleep(5000);
     }
-    if (i==60) {
+    if (i==60) {j
         cout << "\n\n\t\t\tTO    YEU            ";
         cout << "\n\n\n\t\tTren the gioi nay co 7 ty nguoi \n\t\tMa sao chi co 1 nguoi yeu cau.";
         cout << "\n\t\t==>VA NGUOI DO CHINH LA TO DAY !!!";
